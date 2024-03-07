@@ -1,0 +1,11 @@
+C:\Users\natas\source\repos\Mindbox_Test1\AreaCalculation\bin\Debug\net6.0\AreaCalculation.deps.json
+C:\Users\natas\source\repos\Mindbox_Test1\AreaCalculation\bin\Debug\net6.0\AreaCalculation.dll
+C:\Users\natas\source\repos\Mindbox_Test1\AreaCalculation\bin\Debug\net6.0\AreaCalculation.pdb
+C:\Users\natas\source\repos\Mindbox_Test1\AreaCalculation\obj\Debug\net6.0\AreaCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natas\source\repos\Mindbox_Test1\AreaCalculation\obj\Debug\net6.0\AreaCalculation.AssemblyInfoInputs.cache
+C:\Users\natas\source\repos\Mindbox_Test1\AreaCalculation\obj\Debug\net6.0\AreaCalculation.AssemblyInfo.cs
+C:\Users\natas\source\repos\Mindbox_Test1\AreaCalculation\obj\Debug\net6.0\AreaCalculation.csproj.CoreCompileInputs.cache
+C:\Users\natas\source\repos\Mindbox_Test1\AreaCalculation\obj\Debug\net6.0\AreaCalculation.dll
+C:\Users\natas\source\repos\Mindbox_Test1\AreaCalculation\obj\Debug\net6.0\refint\AreaCalculation.dll
+C:\Users\natas\source\repos\Mindbox_Test1\AreaCalculation\obj\Debug\net6.0\AreaCalculation.pdb
+C:\Users\natas\source\repos\Mindbox_Test1\AreaCalculation\obj\Debug\net6.0\ref\AreaCalculation.dll
